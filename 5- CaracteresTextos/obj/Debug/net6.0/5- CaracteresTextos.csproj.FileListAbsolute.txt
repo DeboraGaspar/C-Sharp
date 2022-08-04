@@ -1,0 +1,15 @@
+C:\Users\debor\source\repos\AprendendoCSharp\5- CaracteresTextos\bin\Debug\net6.0\5- CaracteresTextos.exe
+C:\Users\debor\source\repos\AprendendoCSharp\5- CaracteresTextos\bin\Debug\net6.0\5- CaracteresTextos.deps.json
+C:\Users\debor\source\repos\AprendendoCSharp\5- CaracteresTextos\bin\Debug\net6.0\5- CaracteresTextos.runtimeconfig.json
+C:\Users\debor\source\repos\AprendendoCSharp\5- CaracteresTextos\bin\Debug\net6.0\5- CaracteresTextos.dll
+C:\Users\debor\source\repos\AprendendoCSharp\5- CaracteresTextos\bin\Debug\net6.0\5- CaracteresTextos.pdb
+C:\Users\debor\source\repos\AprendendoCSharp\5- CaracteresTextos\obj\Debug\net6.0\5- CaracteresTextos.csproj.AssemblyReference.cache
+C:\Users\debor\source\repos\AprendendoCSharp\5- CaracteresTextos\obj\Debug\net6.0\5- CaracteresTextos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\debor\source\repos\AprendendoCSharp\5- CaracteresTextos\obj\Debug\net6.0\5- CaracteresTextos.AssemblyInfoInputs.cache
+C:\Users\debor\source\repos\AprendendoCSharp\5- CaracteresTextos\obj\Debug\net6.0\5- CaracteresTextos.AssemblyInfo.cs
+C:\Users\debor\source\repos\AprendendoCSharp\5- CaracteresTextos\obj\Debug\net6.0\5- CaracteresTextos.csproj.CoreCompileInputs.cache
+C:\Users\debor\source\repos\AprendendoCSharp\5- CaracteresTextos\obj\Debug\net6.0\5- CaracteresTextos.dll
+C:\Users\debor\source\repos\AprendendoCSharp\5- CaracteresTextos\obj\Debug\net6.0\refint\5- CaracteresTextos.dll
+C:\Users\debor\source\repos\AprendendoCSharp\5- CaracteresTextos\obj\Debug\net6.0\5- CaracteresTextos.pdb
+C:\Users\debor\source\repos\AprendendoCSharp\5- CaracteresTextos\obj\Debug\net6.0\5- CaracteresTextos.genruntimeconfig.cache
+C:\Users\debor\source\repos\AprendendoCSharp\5- CaracteresTextos\obj\Debug\net6.0\ref\5- CaracteresTextos.dll

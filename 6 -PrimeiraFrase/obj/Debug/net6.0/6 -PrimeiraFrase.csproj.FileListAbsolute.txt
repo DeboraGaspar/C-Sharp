@@ -1,0 +1,15 @@
+C:\Users\debor\source\repos\AprendendoCSharp\6 -PrimeiraFrase\bin\Debug\net6.0\6 -PrimeiraFrase.exe
+C:\Users\debor\source\repos\AprendendoCSharp\6 -PrimeiraFrase\bin\Debug\net6.0\6 -PrimeiraFrase.deps.json
+C:\Users\debor\source\repos\AprendendoCSharp\6 -PrimeiraFrase\bin\Debug\net6.0\6 -PrimeiraFrase.runtimeconfig.json
+C:\Users\debor\source\repos\AprendendoCSharp\6 -PrimeiraFrase\bin\Debug\net6.0\6 -PrimeiraFrase.dll
+C:\Users\debor\source\repos\AprendendoCSharp\6 -PrimeiraFrase\bin\Debug\net6.0\6 -PrimeiraFrase.pdb
+C:\Users\debor\source\repos\AprendendoCSharp\6 -PrimeiraFrase\obj\Debug\net6.0\6 -PrimeiraFrase.csproj.AssemblyReference.cache
+C:\Users\debor\source\repos\AprendendoCSharp\6 -PrimeiraFrase\obj\Debug\net6.0\6 -PrimeiraFrase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\debor\source\repos\AprendendoCSharp\6 -PrimeiraFrase\obj\Debug\net6.0\6 -PrimeiraFrase.AssemblyInfoInputs.cache
+C:\Users\debor\source\repos\AprendendoCSharp\6 -PrimeiraFrase\obj\Debug\net6.0\6 -PrimeiraFrase.AssemblyInfo.cs
+C:\Users\debor\source\repos\AprendendoCSharp\6 -PrimeiraFrase\obj\Debug\net6.0\6 -PrimeiraFrase.csproj.CoreCompileInputs.cache
+C:\Users\debor\source\repos\AprendendoCSharp\6 -PrimeiraFrase\obj\Debug\net6.0\6 -PrimeiraFrase.dll
+C:\Users\debor\source\repos\AprendendoCSharp\6 -PrimeiraFrase\obj\Debug\net6.0\refint\6 -PrimeiraFrase.dll
+C:\Users\debor\source\repos\AprendendoCSharp\6 -PrimeiraFrase\obj\Debug\net6.0\6 -PrimeiraFrase.pdb
+C:\Users\debor\source\repos\AprendendoCSharp\6 -PrimeiraFrase\obj\Debug\net6.0\6 -PrimeiraFrase.genruntimeconfig.cache
+C:\Users\debor\source\repos\AprendendoCSharp\6 -PrimeiraFrase\obj\Debug\net6.0\ref\6 -PrimeiraFrase.dll

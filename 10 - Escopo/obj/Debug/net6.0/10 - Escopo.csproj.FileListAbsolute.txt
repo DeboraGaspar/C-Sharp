@@ -1,0 +1,15 @@
+C:\Users\debor\source\repos\AprendendoCSharp\10 - Escopo\bin\Debug\net6.0\10 - Escopo.exe
+C:\Users\debor\source\repos\AprendendoCSharp\10 - Escopo\bin\Debug\net6.0\10 - Escopo.deps.json
+C:\Users\debor\source\repos\AprendendoCSharp\10 - Escopo\bin\Debug\net6.0\10 - Escopo.runtimeconfig.json
+C:\Users\debor\source\repos\AprendendoCSharp\10 - Escopo\bin\Debug\net6.0\10 - Escopo.dll
+C:\Users\debor\source\repos\AprendendoCSharp\10 - Escopo\bin\Debug\net6.0\10 - Escopo.pdb
+C:\Users\debor\source\repos\AprendendoCSharp\10 - Escopo\obj\Debug\net6.0\10 - Escopo.csproj.AssemblyReference.cache
+C:\Users\debor\source\repos\AprendendoCSharp\10 - Escopo\obj\Debug\net6.0\10 - Escopo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\debor\source\repos\AprendendoCSharp\10 - Escopo\obj\Debug\net6.0\10 - Escopo.AssemblyInfoInputs.cache
+C:\Users\debor\source\repos\AprendendoCSharp\10 - Escopo\obj\Debug\net6.0\10 - Escopo.AssemblyInfo.cs
+C:\Users\debor\source\repos\AprendendoCSharp\10 - Escopo\obj\Debug\net6.0\10 - Escopo.csproj.CoreCompileInputs.cache
+C:\Users\debor\source\repos\AprendendoCSharp\10 - Escopo\obj\Debug\net6.0\10 - Escopo.dll
+C:\Users\debor\source\repos\AprendendoCSharp\10 - Escopo\obj\Debug\net6.0\refint\10 - Escopo.dll
+C:\Users\debor\source\repos\AprendendoCSharp\10 - Escopo\obj\Debug\net6.0\10 - Escopo.pdb
+C:\Users\debor\source\repos\AprendendoCSharp\10 - Escopo\obj\Debug\net6.0\10 - Escopo.genruntimeconfig.cache
+C:\Users\debor\source\repos\AprendendoCSharp\10 - Escopo\obj\Debug\net6.0\ref\10 - Escopo.dll
